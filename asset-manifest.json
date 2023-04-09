@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/spebes_web/static/css/main.9d3fe1a7.css",
-    "main.js": "/spebes_web/static/js/main.79026b71.js",
+    "main.js": "/spebes_web/static/js/main.f7a6a6fc.js",
     "static/js/787.5e8d45ce.chunk.js": "/spebes_web/static/js/787.5e8d45ce.chunk.js",
     "static/media/icon.ico": "/spebes_web/static/media/icon.e4b619b159ce49c8785f.ico",
     "index.html": "/spebes_web/index.html",
     "main.9d3fe1a7.css.map": "/spebes_web/static/css/main.9d3fe1a7.css.map",
-    "main.79026b71.js.map": "/spebes_web/static/js/main.79026b71.js.map",
+    "main.f7a6a6fc.js.map": "/spebes_web/static/js/main.f7a6a6fc.js.map",
     "787.5e8d45ce.chunk.js.map": "/spebes_web/static/js/787.5e8d45ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d3fe1a7.css",
-    "static/js/main.79026b71.js"
+    "static/js/main.f7a6a6fc.js"
   ]
 }

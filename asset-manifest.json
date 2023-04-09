@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/spebes_web/static/css/main.ca184707.css",
-    "main.js": "/spebes_web/static/js/main.213c672b.js",
+    "main.css": "/spebes_web/static/css/main.9d3fe1a7.css",
+    "main.js": "/spebes_web/static/js/main.79026b71.js",
     "static/js/787.5e8d45ce.chunk.js": "/spebes_web/static/js/787.5e8d45ce.chunk.js",
+    "static/media/icon.ico": "/spebes_web/static/media/icon.e4b619b159ce49c8785f.ico",
     "index.html": "/spebes_web/index.html",
-    "main.ca184707.css.map": "/spebes_web/static/css/main.ca184707.css.map",
-    "main.213c672b.js.map": "/spebes_web/static/js/main.213c672b.js.map",
+    "main.9d3fe1a7.css.map": "/spebes_web/static/css/main.9d3fe1a7.css.map",
+    "main.79026b71.js.map": "/spebes_web/static/js/main.79026b71.js.map",
     "787.5e8d45ce.chunk.js.map": "/spebes_web/static/js/787.5e8d45ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca184707.css",
-    "static/js/main.213c672b.js"
+    "static/css/main.9d3fe1a7.css",
+    "static/js/main.79026b71.js"
   ]
 }
